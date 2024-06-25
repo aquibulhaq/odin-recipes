@@ -9,4 +9,5 @@ h1 {
 img {
   width: 500px;
   height: auto;
+  border: 5px solid black;
 }
