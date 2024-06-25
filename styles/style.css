@@ -5,3 +5,8 @@ body {
 h1 {
   text-decoration: underline;
 }
+
+img {
+  width: 500px;
+  height: auto;
+}
